@@ -1,6 +1,6 @@
 # easyuser
 
-A basic [Sails v1](https://sailsjs.com) application that can be developed into an in-house user cohort analysis application.
+A basic [Sails v1](https://sailsjs.com) application that can be developed into an in-house user analysis application.
 
 ---
 It currently serves `create` and `read` apis
